@@ -7,3 +7,5 @@ git commit -a -m "your notif" //add file to repastory
 git rm cached 
 git diff 
 git log //see commit 
+git checkout -- . //unsaved ALL changed 
+git checkout -- <file name>  //unsaved "file name" changed
