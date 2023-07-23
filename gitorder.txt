@@ -14,4 +14,3 @@ git checkout <branch Name> //switched to branch
 git checkout -b <branch Name> //creat new branch and switched
 git merge <branch name> //first we switched to branch after we merge a branch in switched branch
 touch .gitignore //
-adssadasd
