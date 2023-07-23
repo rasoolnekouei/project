@@ -1,0 +1,6 @@
+git init //new repastory
+git status 
+git add . 
+git add file name //add file to stage 
+git commit -m "your notif"
+git commit -a -m "your notif" //add file to repastory
