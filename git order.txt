@@ -10,5 +10,6 @@ git log //see commit
 git checkout -- . //unsaved ALL changed 
 git checkout -- <file name>  //unsaved "file name" changed
 git branch <new branch Name> //creat new branch
-git checkout <branch Name> //swiched to branch 
-git checkout -b <branch Name> //creat new branch and swiched
+git checkout <branch Name> //switched to branch 
+git checkout -b <branch Name> //creat new branch and switched
+git merge <branch name> //first we switched to branch after we merge a branch in switched branch
