@@ -9,3 +9,6 @@ git diff
 git log //see commit 
 git checkout -- . //unsaved ALL changed 
 git checkout -- <file name>  //unsaved "file name" changed
+git branch <new branch Name> //creat new branch
+git checkout <branch Name> //swiched to branch 
+git checkout -b <branch Name> //creat new branch and swiched
